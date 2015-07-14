@@ -3,7 +3,7 @@
 ## Installation
 Place yourself in your plugin directory
 ```shell
-$ cd /wp-content/plugin
+$ cd wp-content/plugin
 ```
 Clone this repo
 ```shell
